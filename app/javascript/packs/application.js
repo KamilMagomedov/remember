@@ -14,7 +14,7 @@
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
-   
+      
 import "../stylesheets/aplication.scss";
 import "../images/illustration.png";
 import "../images/icon1.svg";
